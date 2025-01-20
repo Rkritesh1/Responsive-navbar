@@ -1,0 +1,13 @@
+#navbarToggle {
+    font-size: 30px;
+    border: none;
+    background: none;
+}
+
+#navbar {
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    width: 200px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
